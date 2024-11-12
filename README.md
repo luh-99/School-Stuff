@@ -8,8 +8,12 @@ I will most likely NOT be testing anything that the info contains in this reposi
 
 
 ## CREDITS:
-- DeroXP
-- xploitspeeds
+- [DeroXP](https://github.com/DeroXP)
+- [xploitspeeds](https://github.com/xploitspeeds)
+- [yofriendfromschool1](https://github.com/yofriendfromschool1)
+- [catfoolyou](https://github.com/catfoolyou)
+
+
 ## INFO:
 For the xploitspeed repo, ***<DO> </NOT>*** use the ones he has uploaded as I have not tried them myself, and could be outdated. Instead, go to the "Issues" tab 
 as there are some up-to-date bypasses.
@@ -23,3 +27,5 @@ as there are some up-to-date bypasses.
 - [DeroXP Repo](https://github.com/DeroXP/evading-school-blockers)
 * [xploitspeeds Repo](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School) 
 + [3kh0 Repo](https://github.com/3kh0/ext-remover)
+- [yofriendfromschool1 Repo](https://github.com/yofriendfromschool1/School-Bypass)
+* [catfoolyou Repo](https://github.com/catfoolyou/Block-Bypass)
