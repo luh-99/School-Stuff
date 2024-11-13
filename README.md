@@ -5,7 +5,7 @@
 > My Discord should be linked to my GitHub account. 
 
 ## Helpful Information
-* I will most likely **NOT** be testing anything that the info contains in this repository as I am doing this for fun. But in case I do test some I will figure out a way to provide the data I have collected.
+* I will most likely **NOT** be testing anything that the info contains in this repository as I am doing this for fun. But in case I do test something I like, I will figure out a way to provide the data I have collected.
 
 * For the xploitspeed repo below, ***<DO> </NOT>*** use the ones he has uploaded as I have not tried them myself, which means they could be outdated. Instead, go to the "Issues" tab as there are more up-to-date bypasses.
 > You can use everything in his repo if you want to.
