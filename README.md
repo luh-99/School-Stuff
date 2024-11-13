@@ -1,7 +1,7 @@
 #  
-1. Everything in this repository is still a **WIP** so be patient as ***I am still developing and finding everything.***
-2. Everything I find that is usable & easy for idiots (like me) and compatible with my school MacBook
-3. _Please feel free to contact me on GitHub or Discord as I am open to suggestions. **I highly recommend you to do so if you have information** as this can help me and others looking for information on the topic. It also helps me push out new information that can help many other people whether we know it or not._
+- Everything in this repository is still a **WIP** so be patient as ***I am still developing and finding everything.***
+- Everything I find that is usable, easy to use, and compatible with my school MacBook will be added, **BUT** only if I feel it's worth being added.
+- _Please feel free to contact me on GitHub or Discord as I am open to suggestions. **I highly recommend you to do so if you have information** as this can help me and others looking for information on the topic. It also helps me push out new information that can help many other people whether we know it or not._
 > My Discord should be linked to my GitHub account. 
 
 ## Helpful Information
