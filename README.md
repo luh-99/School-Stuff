@@ -10,8 +10,10 @@ I will most likely NOT be testing anything that the info contains in this reposi
 ## CREDITS:
 - [DeroXP](https://github.com/DeroXP)
 - [xploitspeeds](https://github.com/xploitspeeds)
+- [3kh0](https://github.com/3kh0)
 - [yofriendfromschool1](https://github.com/yofriendfromschool1)
 - [catfoolyou](https://github.com/catfoolyou)
+- [lehorseyexpress](https://github.com/lehorseyexpress)
 
 
 ## INFO:
@@ -29,3 +31,4 @@ as there are some up-to-date bypasses.
 + [3kh0 Repo](https://github.com/3kh0/ext-remover)
 - [yofriendfromschool1 Repo](https://github.com/yofriendfromschool1/School-Bypass)
 * [catfoolyou Repo](https://github.com/catfoolyou/Block-Bypass)
++ [lehorseyexpress Repo](https://github.com/lehorseyexpress/lehorseyexpress.github.io)
