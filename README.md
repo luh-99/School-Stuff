@@ -24,9 +24,9 @@
 
 
 ## HELPFUL LINKS
-- [DeroXP Repo](https://github.com/DeroXP/evading-school-blockers)
-* [xploitspeeds Repo](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School) 
-+ [3kh0 Repo](https://github.com/3kh0/ext-remover)
-- [yofriendfromschool1 Repo](https://github.com/yofriendfromschool1/School-Bypass)
-* [catfoolyou Repo](https://github.com/catfoolyou/Block-Bypass)
-+ [lehorseyexpress Repo](https://github.com/lehorseyexpress/lehorseyexpress.github.io)
++ [DeroXP's Repository](https://github.com/DeroXP/evading-school-blockers)
++ [xploitspeeds Repository](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School) 
++ [3kh0's Repository](https://github.com/3kh0/ext-remover)
++ [yofriendfromschool1's Repository](https://github.com/yofriendfromschool1/School-Bypass)
++ [catfoolyou's Repository](https://github.com/catfoolyou/Block-Bypass)
++ [lehorseyexpress Repository](https://github.com/lehorseyexpress/lehorseyexpress.github.io)
