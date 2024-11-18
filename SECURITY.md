@@ -20,7 +20,7 @@ Thank you for helping us keep this project secure! 🔐
 
 To ensure your system's security, we recommend always using the latest stable version. Supported versions include:
 
-- **any lol*
+- *any lol*
 - *so silly*
 
 **⚠️ Older versions** may no longer receive security updates. If you're using an unsupported version, please consider updating to the latest release.
