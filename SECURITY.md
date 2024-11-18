@@ -5,7 +5,7 @@
 If you discover a security vulnerability in this project, please follow these steps to report it **securely**:
 
 1. **⛔ Do not create a public issue.** Security issues should never be disclosed publicly.
-2. **✉️ Email us directly** at: [security@example.com](mailto:security@example.com)  
+2. **✉️ Email us directly** at: [githobemail@gmail.com](githobemail@gmail.com)  
    Include the following information:
    - 🔍 A clear **description** of the vulnerability
    - 🔄 **Steps to reproduce** (if applicable)
