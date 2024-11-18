@@ -1,44 +1,100 @@
-# Welcome 👋, please read what I have said below. 
+# 🚀 Welcome to the School Bypass Project!
 
-## DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY! 
+**Disclaimer: FOR EDUCATIONAL PURPOSES ONLY!**
 
+## ⚠️ USE THIS AT YOUR OWN RISK!
 
-## USE THIS AT YOUR OWN RISK!
+**I am not responsible** for any consequences you may face (e.g., suspension, punishment) for using the information or resources in this repository. You have been warned, and by using this repository, you agree to take full responsibility for your actions. **Use this at your own risk**. ⚡
 
-- ***I am not responsible for you getting in trouble at school or being suspended, even if you get punished for ANYTHING I will still not be liable as you were warned and you knowingly used the info in the repository after being warned. Once again, USE THIS AT YOUR OWN RISK***
+---
 
-### INFO 
-- Everything in this repository is still a **WIP** so be patient as ***I am still developing and finding everything with limited amounts of time.***
+## 📝 Info
 
-- Everything I find that is usable, easy to use, and compatible with my school MacBook will be added, **BUT** only if I feel it's worth being added.
+- **This repository is a work in progress (WIP)**. Please be patient as I am constantly developing and exploring new ways to put in this repository with limited amounts of time. ⏳
+- **Content Update**: Anything I find that is usable, easy to implement, and compatible with my school MacBook will be added — **BUT** only if it’s genuinely useful.
+- Feel free to **contact me** via GitHub or Discord if you have suggestions or useful information to contribute. I highly encourage you to do so, as it will help me **update and improve the repository**. 💬
 
-- _Please feel free to contact me on GitHub or Discord as I am open to suggestions. **I highly recommend you to do so if you have information** as this can help me and others looking for information on the topic. It also helps me push out new information that can help many other people whether we know it or not._
-> My Discord should be linked to my GitHub account. 
+> You can find my **Discord linked to my GitHub account**.
 
-## Helpful Information 
-* I will most likely **NOT** be testing anything that the info contains in this repository as I am doing this for fun. But in case I do test something I like, I will figure out a way to provide the data I have collected.
+---
 
-* For the xploitspeed repo below, ***<DO> </NOT>*** use the ones he has uploaded as I have not tried them myself, which means they could be outdated. Instead, go to the "Issues" tab as there are more up-to-date bypasses.
-> You can use everything in his repo if you want to.
+## ⚡ Helpful Information
 
+- I will **most likely NOT** be testing everything in this repository since I'm doing this for fun. However, if I find something interesting to test, I’ll be sure to share any findings.
+  
+- **Regarding the xploitspeed repo**:  
+  **<DO> </NOT>** use the bypasses listed there as I haven't personally tested them. They might be outdated. Instead, check the **Issues** tab for more up-to-date bypasses.  
+  > You can still use everything in his repo at your own risk.
 
+---
 
-## CREDITS:
-- [DeroXP](https://github.com/DeroXP)
-- [xploitspeeds](https://github.com/xploitspeeds)
-- [3kh0](https://github.com/3kh0)
-- [yofriendfromschool1](https://github.com/yofriendfromschool1)
-- [catfoolyou](https://github.com/catfoolyou)
-- [lehorseyexpress](https://github.com/lehorseyexpress)
-- [Blobby Boi](https://github.com/Blobby-Boi)
+## 👏 Credits
 
+A huge thank you to the following individuals and their contributions:
 
+- [DeroXP](https://github.com/DeroXP) – Developer of **Evading School Blockers**
+- [xploitspeeds](https://github.com/xploitspeeds) – Creator of **Bookmarklet Hacks for School**
+- [3kh0](https://github.com/3kh0) – Developer of **Ext Remover**
+- [yofriendfromschool1](https://github.com/yofriendfromschool1) – Author of **School Bypass**
+- [catfoolyou](https://github.com/catfoolyou) – Creator of **Block Bypass**
+- [lehorseyexpress](https://github.com/lehorseyexpress) – Developer of **Lehorsey Express**
+- [Blobby Boi](https://github.com/Blobby-Boi) – Creator of various **School Bypass tools**
 
-## HELPFUL LINKS
-+ [DeroXP's Repository](https://github.com/DeroXP/evading-school-blockers)
-+ [xploitspeeds Repository](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School) 
-+ [3kh0's Repository](https://github.com/3kh0/ext-remover)
-+ [yofriendfromschool1's Repository](https://github.com/yofriendfromschool1/School-Bypass)
-+ [catfoolyou's Repository](https://github.com/catfoolyou/Block-Bypass)
-+ [lehorseyexpress's Repository](https://github.com/lehorseyexpress/lehorseyexpress.github.io)
-+ [All Of Blobby Boi's Repo's](https://github.com/Blobby-Boi?tab=repositories)
+---
+
+## 🔗 Helpful Links
+
+Here are some valuable links to related repositories that might help you in your journey:
+
+- [DeroXP's Repository: Evading School Blockers](https://github.com/DeroXP/evading-school-blockers)
+- [xploitspeeds' Repository: Bookmarklet Hacks for School](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School)
+- [3kh0's Repository: Ext Remover](https://github.com/3kh0/ext-remover)
+- [yofriendfromschool1's Repository: School Bypass](https://github.com/yofriendfromschool1/School-Bypass)
+- [catfoolyou's Repository: Block Bypass](https://github.com/catfoolyou/Block-Bypass)
+- [lehorseyexpress' Repository](https://github.com/lehorseyexpress/lehorseyexpress.github.io)
+- [Blobby Boi's Repositories](https://github.com/Blobby-Boi?tab=repositories)
+
+---
+
+## 💬 Contact & Feedback
+
+If you have suggestions, feedback, or information you’d like to share, feel free to reach out. I’m open to collaborating and appreciate any contributions to the project!
+
+- **GitHub**: [Your GitHub Profile](https://github.com/luh-99)
+- **Discord**: (Available via GitHub)
+
+---
+
+## 🔧 Contributing
+
+If you want to contribute to this project or improve any of the bypass methods:
+
+1. **Fork the repository** and clone it locally.
+2. **Create a new branch** (`git checkout -b feature-xyz`).
+3. **Make your changes** and test them.
+4. **Commit your changes** (`git commit -am 'Add new bypass method'`).
+5. **Push your changes** to your fork (`git push origin feature-xyz`).
+6. Open a **Pull Request** to merge your changes.
+
+---
+
+## 📜 License
+
+This project is open-source and licensed under the **MIT License**. See the [LICENSE](https://github.com/luh-99/School-Stuff/blob/main/LICENSE) file for more details.
+
+---
+
+## 🏁 Project Status
+
+- **Current Version**: No Current Version
+- **Last Updated**: Today, Which is ***Monday, November 18th.***
+- **Upcoming Features**: ***Be on the lookout in the repository for new things 👀***
+
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to the entire community for contributing their knowledge, time, and expertise to improve this repository. This project would not be possible without you. 🌟
+
+---
+
