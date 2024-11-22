@@ -1,7 +1,20 @@
+> [!NOTE]
+> Useful information for bypassing school rules (e.g., proxies, games, bookmarklets)
+
+> [!TIP]
+> If one of the URLs you have chosen is blocked keep trying as some of them will probably be blocked but that differs depending on the type/level of blocking system, the blocker itself, or just how smart your school is in general.
+
+> [!IMPORTANT]
+> Be careful when using some of the bypasses.
+
+> [!WARNING]
+> I am not responsible for any consequences you may face.
+
+> [!CAUTION]
+> Only sigmas are smart enough to edge to this and get it working.
+
 # 🚀 Welcome to the School Bypass Project!
-
-**Disclaimer: FOR EDUCATIONAL PURPOSES ONLY!**
-
+ 
 ## ⚠️ USE THIS AT YOUR OWN RISK!
 
 **I am not responsible** for any consequences you may face (e.g., suspension, punishment) for using the information or resources in this repository. You have been warned, and by using this repository, you agree to take full responsibility for your actions. **Use this at your own risk**. ⚡
@@ -27,6 +40,19 @@
   > You can still use everything in his repo at your own risk.
 
 ---
+## 🔗 Helpful Links
+
+Here are some valuable links to related repositories that might help you in your journey:
+
+- [DeroXP's Repository: Evading School Blockers](https://github.com/DeroXP/evading-school-blockers)
+- [xploitspeeds' Repository: Bookmarklet Hacks for School](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School)
+- [3kh0's Repository: Ext Remover](https://github.com/3kh0/ext-remover)
+- [yofriendfromschool1's Repository: School Bypass](https://github.com/yofriendfromschool1/School-Bypass)
+- [catfoolyou's Repository: Block Bypass](https://github.com/catfoolyou/Block-Bypass)
+- [lehorseyexpress' Repository](https://github.com/lehorseyexpress/lehorseyexpress.github.io)
+- [Blobby Boi's Repositories](https://github.com/Blobby-Boi?tab=repositories)
+
+---
 
 ## 👏 Credits
 
@@ -39,20 +65,6 @@ A huge thank you to the following individuals and their contributions:
 - [catfoolyou](https://github.com/catfoolyou) – Creator of **Block Bypass**
 - [lehorseyexpress](https://github.com/lehorseyexpress) – Developer of **Lehorsey Express**
 - [Blobby Boi](https://github.com/Blobby-Boi) – Creator of various **School Bypass tools**
-
----
-
-## 🔗 Helpful Links
-
-Here are some valuable links to related repositories that might help you in your journey:
-
-- [DeroXP's Repository: Evading School Blockers](https://github.com/DeroXP/evading-school-blockers)
-- [xploitspeeds' Repository: Bookmarklet Hacks for School](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School)
-- [3kh0's Repository: Ext Remover](https://github.com/3kh0/ext-remover)
-- [yofriendfromschool1's Repository: School Bypass](https://github.com/yofriendfromschool1/School-Bypass)
-- [catfoolyou's Repository: Block Bypass](https://github.com/catfoolyou/Block-Bypass)
-- [lehorseyexpress' Repository](https://github.com/lehorseyexpress/lehorseyexpress.github.io)
-- [Blobby Boi's Repositories](https://github.com/Blobby-Boi?tab=repositories)
 
 ---
 
@@ -78,12 +90,6 @@ If you want to contribute to this project or improve any of the bypass methods:
 
 ---
 
-## 📜 License
-
-This project is open-source and licensed under the **MIT License**. See the [LICENSE](https://github.com/luh-99/School-Stuff/blob/main/LICENSE) file for more details.
-
----
-
 ## 🏁 Project Status
 
 - **Current Version**: No Current Version
@@ -97,4 +103,8 @@ This project is open-source and licensed under the **MIT License**. See the [LIC
 Special thanks to the entire community for contributing their knowledge, time, and expertise to improve this repository. This project would not be possible without you. 🌟
 
 ---
+
+## 📜 License
+
+This project is open-source and licensed under the **MIT License**. See the [LICENSE](https://github.com/luh-99/School-Stuff/blob/main/LICENSE) file for more details.
 
