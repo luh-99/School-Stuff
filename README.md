@@ -1,6 +1,19 @@
 # 🚀 Welcome to the School Bypass Project!
 
-**Disclaimer: FOR EDUCATIONAL PURPOSES ONLY!**
+> [!NOTE]
+> Useful information for bypassing school rules (e.g., proxies, games, bookmarklets)
+
+> [!TIP]
+> If one of the URLs you have chosen is blocked keep trying as some of them will probably be blocked but that differs depending on the type/level of blocking system, the blocker itself, or just how smart your school is in general.
+
+> [!IMPORTANT]
+> Be careful when using some of the bypasses.
+
+> [!WARNING]
+> I am not responsible for any consequences you may face.
+
+> [!CAUTION]
+> Only sigmas are smart enough to edge to this and get it working.
 
 ## ⚠️ USE THIS AT YOUR OWN RISK!
 
