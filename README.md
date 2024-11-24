@@ -1,28 +1,30 @@
 > [!NOTE]
 > Useful information for bypassing school rules (e.g., proxies, games, bookmarklets)
-
+---
 > [!TIP]
 > If one of the URLs you have chosen is blocked keep trying as some of them will probably be blocked but that differs depending on the type/level of blocking system, the blocker itself, or just how smart your school is in general.
-
+> 
+> Also, don't be a dumbass, if you overshare the repo it is going to be blocked.
+---
 > [!IMPORTANT]
 > Be careful when using some of the bypasses.
-
+---
 > [!WARNING]
 > I am not responsible for any consequences you may face.
-
+---
 > [!CAUTION]
-> Only sigmas are smart enough to edge to this and get it working.
-
+> If you have a question, use the issues tab, but use common sense,  I will not respond to dumb questions.
+---
 # 🚀 Welcome to the School Bypass Project!
- 
+---
 ## ⚠️ USE THIS AT YOUR OWN RISK!
-
+---
 **I am not responsible** for any consequences you may face (e.g., suspension, punishment) for using the information or resources in this repository. You have been warned, and by using this repository, you agree to take full responsibility for your actions. **Use this at your own risk**. ⚡
 
 ---
 
 ## 📝 Info
-
+---
 - **This repository is a work in progress (WIP)**. Please be patient as I am constantly developing and exploring new ways to put in this repository with limited amounts of time. ⏳
 - **Content Update**: Anything I find that is usable, easy to implement, and compatible with my school MacBook will be added — **BUT** only if it’s genuinely useful.
 - Feel free to **contact me** via GitHub or Discord if you have suggestions or useful information to contribute. I highly encourage you to do so, as it will help me **update and improve the repository**. 💬
