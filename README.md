@@ -1,3 +1,7 @@
+# 🚀 Welcome to the School Bypass Project!
+---
+## Before we start, please read all the precautions I have told you below, and throughout creating this repository all the warnings I state in general.
+---
 > [!NOTE]
 > Useful information for bypassing school rules (e.g., proxies, games, bookmarklets)
 ---
@@ -14,8 +18,6 @@
 ---
 > [!CAUTION]
 > If you have a question, use the issues tab, but use common sense,  I will not respond to dumb questions.
----
-# 🚀 Welcome to the School Bypass Project!
 ---
 ## ⚠️ USE THIS AT YOUR OWN RISK!
 ---
