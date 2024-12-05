@@ -1,6 +1,6 @@
 # 🚀 Welcome to the School Bypass Project!
 ---
-## Before we start, please read all the precautions I have told you below, and throughout creating this repository all the warnings I state in general.
+## Before we start, please read all the precautions below, and throughout creating this repository all the warnings I state in general.
 ---
 > [!NOTE]
 > Useful information for bypassing school rules (e.g., proxies, games, bookmarklets)
@@ -53,7 +53,7 @@ Here are some valuable links to related repositories that might help you in your
 - [3kh0's Repository: Ext Remover](https://github.com/3kh0/ext-remover)
 - [yofriendfromschool1's Repository: School Bypass](https://github.com/yofriendfromschool1/School-Bypass)
 - [catfoolyou's Repository: Block Bypass](https://github.com/catfoolyou/Block-Bypass)
-- [lehorseyexpress' Repository](https://github.com/lehorseyexpress/lehorseyexpress.github.io)
+- [sirhorseyinfo's Repository](https://github.com/sirhorseyinfo/sirhorseyinfo.github.io)
 - [Blobby Boi's Repositories](https://github.com/Blobby-Boi?tab=repositories)
 
 ---
@@ -67,7 +67,7 @@ A huge thank you to the following individuals and their contributions:
 - [3kh0](https://github.com/3kh0) – Developer of **Ext Remover**
 - [yofriendfromschool1](https://github.com/yofriendfromschool1) – Author of **School Bypass**
 - [catfoolyou](https://github.com/catfoolyou) – Creator of **Block Bypass**
-- [lehorseyexpress](https://github.com/lehorseyexpress) – Developer of **Lehorsey Express**
+- [sirhorseyinfo](https://github.com/sirhorseyinfo) – Developer of **Sir Horsey info**
 - [Blobby Boi](https://github.com/Blobby-Boi) – Creator of various **School Bypass tools**
 
 ---
@@ -97,7 +97,7 @@ If you want to contribute to this project or improve any of the bypass methods:
 ## 🏁 Project Status
 
 - **Current Version**: No Current Version
-- **Last Updated**: Today, Which is ***Monday, November 18th.***
+- **Last Updated**: Today, Which is ***Thursday, December 5th.***
 - **Upcoming Features**: ***Be on the lookout in the repository for new things 👀***
 
 ---
