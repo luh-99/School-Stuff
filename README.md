@@ -8,7 +8,7 @@
 > [!TIP]
 > If one of the URLs you have chosen is blocked keep trying as some of them will probably be blocked but that differs depending on the type/level of blocking system, the blocker itself, or just how smart your school is in general.
 > 
-> Also, don't be a dumbass, if you overshare the repo it is going to be blocked.
+> Also, don't be a stupid, **if you overshare the repo, obviously it is and will eventually be blocked.**
 ---
 > [!IMPORTANT]
 > Be careful when using some of the bypasses.
