@@ -21,13 +21,13 @@
 ---
 ## ⚠️ USE THIS AT YOUR OWN RISK!
 ---
-**I am not responsible** for any consequences you may face (e.g., suspension, punishment) for using the information or resources in this repository. You have been warned, and by using this repository, you agree to take full responsibility for your actions. **Use this at your own risk**. ⚡
+**I am not responsible** for any consequences you may face (e.g: suspension, punishment) for using the available information and or resources in this repository. You have been warned. By using the information I have collected and put into this repository, you agree to take full responsibility for your actions and I have no involvement with punishments from your school, parents, etc. **Use this at your own risk**. ⚡
 
 ---
 
 ## 📝 Info
 ---
-- **This repository is a work in progress (WIP)**. Please be patient as I am constantly developing and exploring new ways to put in this repository with limited amounts of time. ⏳
+- **This repository is a work in progress (WIP)**. Please be patient as I am constantly developing and exploring new ways to put in this repository with very limited amounts of time. ⏳
 - **Content Update**: Anything I find that is usable, easy to implement, and compatible with my school MacBook will be added — **BUT** only if it’s genuinely useful.
 - Feel free to **contact me** via GitHub or Discord if you have suggestions or useful information to contribute. I highly encourage you to do so, as it will help me **update and improve the repository**. 💬
 
@@ -37,9 +37,9 @@
 
 ## ⚡ Helpful Information
 
-- I will **most likely NOT** be testing everything in this repository since I'm doing this for fun. However, if I find something interesting to test, I’ll be sure to share any findings.
+- I will most likely **NOT** be testing everything in this repository. I am doing making my findings available via this repository so that it is helpful for people in need of useful info about these things. However, if I do find something I am interested in testing, I will share all of my findings.
   
-- **Regarding the xploitspeed repo**:  
+- **Info Regarding the xploitspeed repo**:  
   **<DO> </NOT>** use the bypasses listed there as I haven't personally tested them. They might be outdated. Instead, check the **Issues** tab for more up-to-date bypasses.  
   > You can still use everything in his repo at your own risk.
 
