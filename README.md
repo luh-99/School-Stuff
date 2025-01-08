@@ -40,8 +40,11 @@
 - I will most likely **NOT** be testing everything in this repository. I am doing making my findings available via this repository so that it is helpful for people in need of useful info about these things. However, if I do find something I am interested in testing, I will share all of my findings.
   
 - **Info Regarding the xploitspeed repo**:  
-  **<DO> </NOT>** use the bypasses listed there as I haven't personally tested them. They might be outdated. Instead, check the **Issues** tab for more up-to-date bypasses.  
+  **<DO> </NOT>** Use the bypasses listed there as I haven't personally tested them. They might be outdated. Instead, check the **Issues** tab for more up-to-date bypasses.  
   > You can still use everything in his repo at your own risk.
+
+You can always go to my [Profile](https://github.com/luh-99) on GitHub and click on the tab called "starred". From there, you can click on [School Stuff Repository](https://github.com/stars/luh-99/lists/school-stuff-repository) and go to the repository I have starred.
+> I have not checked some of the starred repos to see whether they are trustworthy. This means that you need to use them with caution because they might contain things like malware, misinformation, and more.
 
 ---
 ## 🔗 Helpful Links
