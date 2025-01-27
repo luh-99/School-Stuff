@@ -1,35 +1,32 @@
-# 🚀 Welcome to the School Bypass Project!
+# 🚀 Welcome to the ###### Bypass Project!
+> ###### = School. (Trying to make is less obvious)
 ---
-## Before we start, please read all the precautions below, and throughout creating this repository all the warnings I state in general.
+## Before we start, please read all the precautions below. While creating this repository, I have included all the cautions I have said in general.
 ---
 > [!NOTE]
-> Useful information for bypassing school rules (e.g., proxies, games, bookmarklets)
+> Useful information for bypassing rules (e.g., proxies, games, bookmarklets)
 ---
 > [!TIP]
-> If one of the URLs you have chosen is blocked keep trying as some of them will probably be blocked but that differs depending on the type/level of blocking system, the blocker itself, or just how smart your school is in general.
-> 
-> Also, don't be a stupid, **if you overshare the repo, obviously it is and will eventually be blocked.**
----
+> Keep trying other methods if the URLs you have chosen are blocked when opening them in a browser. Some of them will likely be blocked. However, that varies depending on the type/level of the blocking system, the blocker itself, how smart your school is, how widespread the website is, and other factors including how smart you are when using them e.g: cloaking tab name, clearing history, and more.
+
+> **Don't be an idiot while using the methods listed in this repository**
 > [!IMPORTANT]
 > Be careful when using some of the bypasses.
+> **If you overshare the repo, it can and will eventually be blocked, of course, this varies on how long your district takes to block them.**
 ---
-> [!WARNING]
-> I am not responsible for any consequences you may face.
+## ‼️ WARNING
+I am not responsible** for any consequences you may face (e.g: suspension, punishment) for using the available information and or resources in this repository. You have been warned. By using the information I have collected and put into this repository, you agree to take full responsibility for your actions and I have no involvement with punishments from your school, parents, etc. **Use this at your own risk. 
 ---
 > [!CAUTION]
-> If you have a question, use the issues tab, but use common sense,  I will not respond to dumb questions.
----
 ## ⚠️ USE THIS AT YOUR OWN RISK!
+> If you have a question, please use the [issues tab](https://github.com/luh-99/School-Stuff/issues). But use common sense, **I will not respond to dumb questions.**
 ---
-**I am not responsible** for any consequences you may face (e.g: suspension, punishment) for using the available information and or resources in this repository. You have been warned. By using the information I have collected and put into this repository, you agree to take full responsibility for your actions and I have no involvement with punishments from your school, parents, etc. **Use this at your own risk**. ⚡
-
----
-
 ## 📝 Info
 ---
-- **This repository is a work in progress (WIP)**. Please be patient as I am constantly developing and exploring new ways to put in this repository with very limited amounts of time. ⏳
-- **Content Update**: Anything I find that is usable, easy to implement, and compatible with my school MacBook will be added — **BUT** only if it’s genuinely useful.
-- Feel free to **contact me** via GitHub or Discord if you have suggestions or useful information to contribute. I highly encourage you to do so, as it will help me **update and improve the repository**. 💬
+- **This repository is a work in progress (WIP)**. Please be patient as I am constantly expanding and exploring new things to put in this repository. But, I have very limited amounts of time. ⏳
+- **Regarding Updates**: Anything I find that is usable, easy to implement, and compatible with my MacBook will be added. — **BUT** only if it’s genuinely useful.
+
+- Feel free to **contact me** via [GitHub](https://github.com/luh-99) or [Discord (MUST BE LOOGED IN)](https://discordapp.com/users/1034892073020702720)if you have suggestions or useful information to contribute. I highly encourage you to do so, as it will help me **update and improve the repository**. 💬
 
 > You can find my **Discord linked to my GitHub account**.
 
