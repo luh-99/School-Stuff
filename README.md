@@ -1,5 +1,5 @@
 # 🚀 Welcome to the ###### Bypass Project!
-> ###### = School. (Trying to make is less obvious)
+> Hashtag = School. (Trying to make is less obvious)
 ---
 ## Before we start, please read all the precautions below. While creating this repository, I have included all the cautions I have said in general.
 ---
