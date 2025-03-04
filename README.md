@@ -26,7 +26,7 @@ I am not responsible** for any consequences you may face (e.g: suspension, punis
 - **This repository is a work in progress (WIP)**. Please be patient as I am constantly expanding and exploring new things to put in this repository. But, I have very limited amounts of time. ⏳
 - **Regarding Updates**: Anything I find that is usable, easy to implement, and compatible with my MacBook will be added. — **BUT** only if it’s genuinely useful.
 
-- Feel free to **contact me** via [GitHub](https://github.com/luh-99) or [Discord (MUST BE LOOGED IN)](https://discordapp.com/users/1034892073020702720)if you have suggestions or useful information to contribute. I highly encourage you to do so, as it will help me **update and improve the repository**. 💬
+- Feel free to **contact me** via [GitHub](https://github.com/luh-99) or [Discord (MUST BE LOGGED IN)](https://discordapp.com/users/1034892073020702720)if you have suggestions or useful information to contribute. I highly encourage you to do so, as it will help me **update and improve the repository**. 💬
 
 > You can find my **Discord linked to my GitHub account**.
 
