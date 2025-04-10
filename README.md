@@ -1,5 +1,9 @@
+# THIS REPOSITORY HAS BEEN ARCHIVED AS OF APRIL 10TH, 2025 AT 11:52 AM
+I haven't been able to commit to this repository lately. My school has caught on to a lot of the methods and, therefore, has blocked them all. There are always limited sources for these kinds of topics because bypassing school restrictions is not a topic that is talked about, other than by the people who are in school and facing problems with their school restrictions. I haven't been putting as much time and effort as I once did into the creation of this repository. **I might unarchive it,** ***but I can't guarantee that I will get back into these things.*** There are too many risks of doing this stuff because a lot of things can happen, and you never know when you step off the iceberg and fall into trouble and possibly suspension. I hope you have taken what I have said into consideration. With that said, thank you to everyone who has supported this project while it was up and running, and this is my final goodbye.
+
+---
 # 🚀 Welcome to the ###### Bypass Project!
-> Hashtag = School. (Trying to make is less obvious)
+> Hashtag = School. (Trying to make it less obvious)
 ---
 ## Before we start, please read all the precautions below. While creating this repository, I have included all the cautions I have said in general.
 ---
@@ -15,7 +19,7 @@
 > **If you overshare the repo, it can and will eventually be blocked, of course, this varies on how long your district takes to block them.**
 ---
 ## ‼️ WARNING
-I am not responsible** for any consequences you may face (e.g: suspension, punishment) for using the available information and or resources in this repository. You have been warned. By using the information I have collected and put into this repository, you agree to take full responsibility for your actions and I have no involvement with punishments from your school, parents, etc. **Use this at your own risk. 
+I am not responsible** for any consequences you may face (e.g, suspension, punishment) for using the available information and or resources in this repository. You have been warned. By using the information I have collected and put into this repository, you agree to take full responsibility for your actions and I have no involvement with punishments from your school, parents, etc. **Use this at your own risk. 
 ---
 > [!CAUTION]
 ## ⚠️ USE THIS AT YOUR OWN RISK!
@@ -96,8 +100,8 @@ If you want to contribute to this project or improve any of the bypass methods:
 
 ## 🏁 Project Status
 
-- **Current Version**: No Current Version
-- **Last Updated**: Today, Which is ***Thursday, December 5th.***
+- **Current Status**: Archived
+- **Last Updated**: Archived today as of ***April 10th, 2025***
 - **Upcoming Features**: ***Be on the lookout in the repository for new things 👀***
 
 ---
